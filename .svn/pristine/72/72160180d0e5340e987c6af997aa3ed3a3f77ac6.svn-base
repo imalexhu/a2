@@ -1,0 +1,21 @@
+Started Aggregation Server
+Started Content Server
+New Content Added from CS : 0
+201 - HTTP_CREATED
+Started Client 
+
+title : Life is beans and peas
+link : www.beansandpeas.com
+updated : 2015-08-07T18:29:02Z
+id : urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+summary : Sometimes I wonder if there are more to life than just beans and peas
+
+Overriding exisiting item
+New Content Added from CS : 0
+200
+title : Nick sets assignment
+link : www.cs.adelaide.edu.au/users/third/ds/
+updated : 2015-08-07T18:30:02Z
+id : urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a
+summary : here is some plain text. Because I'm not completely evil, you can assume that this will always be less than 1000 characters. And, as I've said before, it will always be plain text.
+

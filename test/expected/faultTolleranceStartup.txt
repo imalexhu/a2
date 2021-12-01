@@ -1,0 +1,34 @@
+Started Aggregation Server
+Started Content Server
+New Content Added from CS : 0
+201 - HTTP_CREATED
+Started Client 
+
+title : Life is beans and peas
+link : www.beansandpeas.com
+updated : 2015-08-07T18:29:02Z
+id : urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+summary : Sometimes I wonder if there are more to life than just beans and peas
+
+
+ATOM server has just crashed
+
+GET Attempt 0 failed after 0 seconds
+
+ATOM server has just crashed
+
+GET Attempt 1 failed after 2000 seconds
+New Content Added from CS : 0
+Started Aggregation Server
+title : Life is beans and peas
+link : www.beansandpeas.com
+updated : 2015-08-07T18:29:02Z
+id : urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+summary : Sometimes I wonder if there are more to life than just beans and peas
+
+title : Life is beans and peas
+link : www.beansandpeas.com
+updated : 2015-08-07T18:29:02Z
+id : urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6b
+summary : Sometimes I wonder if there are more to life than just beans and peas
+
